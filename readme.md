@@ -1,3 +1,3 @@
 ## Hng Resume Task
 
-![resume screen](resume-record.gif)
+![resume screen](resume-record1.gif)
